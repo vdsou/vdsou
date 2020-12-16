@@ -1,5 +1,5 @@
-### Hey 👋
-
+### Hey 👋 I'm Valdir Souza
+web developer coding cool stuff (I guess).
 <!--
 **vdsou/vdsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
