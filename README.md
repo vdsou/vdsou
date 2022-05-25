@@ -4,8 +4,8 @@
 <!--  <img align="center" alt="Valdir-avatar" height="100" width="100" src="https://cdn.discordapp.com/attachments/861744146493472821/882054267886776360/avatar-gratuit4.png"> -->
  <br/>
   <a href="https://github.com/vdsou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdsou&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsou&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdsou&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&bg_color=FFFFFF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsou&layout=compact&langs_count=7&theme=blue-green&bg_color=FFFFFF00"/>
   </a></div>
 
 <div style="display: inline_block" align="center"><br>
