@@ -1,6 +1,7 @@
  ##
  <div align="center">
-  <h2>Hey! <img src = "https://cdn.discordapp.com/attachments/915681255239077898/945387233911926834/wave.gif" width=15px> I'm Valdir Souza</h2>
+<!--   <h2>Hey! <img src = "https://cdn.discordapp.com/attachments/915681255239077898/945387233911926834/wave.gif" width=25px> I'm Valdir Souza</h2> -->
+ <h2>Hey! 👋️ I'm Valdir Souza</h2>
 <!--  <img align="center" alt="Valdir-avatar" height="100" width="100" src="https://cdn.discordapp.com/attachments/861744146493472821/882054267886776360/avatar-gratuit4.png"> -->
  <br/>
   <a href="https://github.com/vdsou">
